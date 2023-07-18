@@ -5,5 +5,4 @@
     *   Based on the analysis, it can be deduced that:
         *   Both K means and PCA result in similar # of optimal cluster count.
         *   The clusters created by PCA are more tigh than the ones creatd by K Means.
-        *   
 
